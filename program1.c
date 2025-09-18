@@ -6,4 +6,4 @@ void main()
 	print("Enter value of a and b \n");
 	scanf("%d %d",&a&b);
 	sum=a-b; 
-	print("sum of a and b  ")
+	print("sub of a and b  ")
